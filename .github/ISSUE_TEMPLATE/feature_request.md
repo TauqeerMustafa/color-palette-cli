@@ -1,0 +1,1 @@
+---\nname: ✨ Feature Request\nabout: Suggest a feature for color-palette-cli\ntitle: '[FEAT] '\n---\n\n**Feature Details**\n
